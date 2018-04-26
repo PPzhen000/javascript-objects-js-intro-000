@@ -1,1 +1,1 @@
-var playlist = { Celin Dion : 'My heart will go on' };
+var playlist = { CelineDion: 'My heart will go on' };
